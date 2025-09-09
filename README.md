@@ -2,6 +2,9 @@
 
 A **production-ready Streamlit dashboard** for analyzing High-Throughput Screening (HTS) data with **machine learning, explainable AI (SHAP), and advanced visualization**.
 
+https://high-throughput-screening-hts--epigenetic-platform-d7aybbgvopc.streamlit.app/
+
+ 
 ## 🚀 Features
 - 📊 **Data Validation & QC**: Z’-factor, hit rate, signal-to-background ratio  
 - 🤖 **Machine Learning**: RandomForest, SVM, GradientBoosting with SHAP explanations  
